@@ -1,3 +1,3 @@
-# decoding-biases
+# Decoding Biases in Artificial Intelligence: Stable Diffusion 
 
-Sample text here.
+## Christoph Mautner Markhof, Laura Zurdo, Riccardo Rapparini, Giovanni Maggi, Barbora Bromová
